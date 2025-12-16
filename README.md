@@ -1,16 +1,21 @@
-## Hi there 👋
+# 📊 Data Analytics Portfolio – Abbas Ali
 
-<!--
-**abbasali-insights/abbasali-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data analytics portfolio.  
+This repository showcases my hands-on projects using real-world datasets to
+solve business problems and generate insights.
 
-Here are some ideas to get you started:
+## 🔍 Skills
+- SQL (Joins, CTEs, Window Functions)
+- Excel (Pivot Tables, Dashboards, Advanced Formulas)
+- Power BI (DAX, Interactive Dashboards)
+- Python (Pandas, NumPy, Matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+### 🟢 Excel
+- Sales & Profit Dashboard
+- Discount Impact Analysis
+
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/abbasali-s-904146b5/
+- Email: abbasalisam@outlook.com
