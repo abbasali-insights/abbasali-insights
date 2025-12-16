@@ -1,8 +1,7 @@
 # 📊 Data Analytics Portfolio – Abbas Ali
 
 Welcome to my data analytics portfolio.  
-This repository showcases my hands-on projects using real-world datasets to
-solve business problems and generate insights.
+This repository showcases my hands-on projects using real-world datasets to solve business problems and generate insights.
 
 ## 🔍 Skills
 - SQL (Joins, CTEs, Window Functions)
